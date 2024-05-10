@@ -37,7 +37,7 @@ DB_NAME = environ.get("DB_NAME", "kpbot")
 
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "6774266296:AAFZqmoos9PYyBNkrjz-usS0g4sxxlxRlW4")
-BOT_USERNAME = environ.get("BOT_USERNAME", "TMUPLOAD_BOT") # your bot username without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "TM_Uploadbot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
